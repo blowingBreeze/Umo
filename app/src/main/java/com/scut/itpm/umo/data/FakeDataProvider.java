@@ -352,27 +352,27 @@ public class FakeDataProvider {
        sampleInformModel.setInformImageID(R.drawable.simple_01);
        SampleInformList.add(sampleInformModel);
 
-       sampleInformModel=new InformModel("小冰","预约了你的需求");
+       sampleInformModel=new InformModel("小冰","#预约了你的需求# 快去回复他把！");
        sampleInformModel.setInformImageID(R.drawable.simple_02);
        SampleInformList.add(sampleInformModel);
 
-       sampleInformModel=new InformModel("小贤","发布了新的动态");
+       sampleInformModel=new InformModel("小贤","发布了新的动态，去看看吧。");
        sampleInformModel.setInformImageID(R.drawable.simple_03);
        SampleInformList.add(sampleInformModel);
 
-       sampleInformModel=new InformModel("杭澍","预约了你的需求");
+       sampleInformModel=new InformModel("杭澍","#预约了你的需求#，快去回复他吧");
        sampleInformModel.setInformImageID(R.drawable.simple_02);
        SampleInformList.add(sampleInformModel);
 
-       sampleInformModel=new InformModel("小明","发布了新的动态");
+       sampleInformModel=new InformModel("小明","发布了新的动态--今天天气真好，一起出去玩吧");
        sampleInformModel.setInformImageID(R.drawable.simple_03);
        SampleInformList.add(sampleInformModel);
 
-       sampleInformModel=new InformModel("小刚","预约了你的需求");
+       sampleInformModel=new InformModel("小刚","#预约了你的需求#，快去回复他吧");
        sampleInformModel.setInformImageID(R.drawable.simple_02);
        SampleInformList.add(sampleInformModel);
 
-       sampleInformModel=new InformModel("小贤","发布了新的动态");
+       sampleInformModel=new InformModel("小贤","发布了新的动态--今天看到一篇好文章...");
        sampleInformModel.setInformImageID(R.drawable.simple_03);
        SampleInformList.add(sampleInformModel);
 
